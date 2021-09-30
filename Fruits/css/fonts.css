@@ -1,0 +1,16 @@
+@font-face{
+    font-family:dosisB;
+    src:url("../fonts/Dosis-Bold.ttf");
+}
+@font-face{
+    font-family:dosisM;
+    src:url("../fonts/Dosis-Medium.ttf");
+}
+@font-face{
+    font-family:dosisR;
+    src:url("../fonts/Dosis-Regular.ttf");
+}
+@font-face{
+    font-family:dosisL;
+    src:url("../fonts/Dosis-light.ttf");
+}
